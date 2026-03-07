@@ -90,6 +90,17 @@
   },
 
   {
+    "channel_id": "tnt2",
+    "language": "Kannada",
+    "channel_url": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "keyId": "f288380ca4cef9ad3f27a92a08e9bb8b",
+    "key": "9f18d26291d9230833501f7f822f6875"
+  },
+
+
+  
+
+  {
     "channel_id": "indvsauw1",
     "language": "English",
      "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd?__hdnea__=st=1771097762~exp=1771184162~acl=/*~hmac=50a13d0d9f2107653ef128e5372b526cc1014a40fdb6a9ce0f803cd8cb227dfc",
