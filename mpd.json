@@ -12,7 +12,7 @@
   {
     "channel_id": "hindi2",
     "language": "Hindi",
-    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93",
+    "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv//StarSports2Hin_BTS/output/index.mpd",
     "keyId": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
     "key": "67a96992e6406606f3480ab58d7f540c"
   },
@@ -33,7 +33,7 @@
   {
     "channel_id": "eng2",
     "language": "English2",
-    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdnea__=st=1771050752~exp=1771137152~acl=/*~hmac=3166015b213e67390aac5af7eb0bbaefcda2e7e239e7f47a54e8e6c17ec92d93",
+    "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv//Star_Sports_2_BTS/output/index.mpd",
     "channel_genre": "Sports",
     "keyId": "fc3aafe80845584199a637249fad2ffa",
     "key": "ca4474972fdb4bf8ecb164482853c692"
