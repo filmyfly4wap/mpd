@@ -13,6 +13,18 @@
       "author": "@vishu",
       "credit": "@cricketlive"
     }
+    {
+      "id": "willow-cricbuzz",
+      "name": "willow cricbuzz",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tcgcz1g3fk/out/v1/33a4bce588914c258fd9300022b50846/cenc.mpd",
+      "cookie": "__hdnea__=st=1783423549~exp=1783445149~acl=/*~hmac=c103b96e05da29be9786ee55f092f64f08136ca321257b324339a760bb14703e",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "632b06f50e561ccfc3473ae057177d70",
+      "key": "1fd0877cfa85e2617ab00f14b4fb66fe",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    }
+    
 
   ]
 }
