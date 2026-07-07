@@ -1,0 +1,76 @@
+[
+    {
+      "id": "MAX",
+      "name": "Sony Max HD",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "9d2bfb4c9aa45ac488bd92ec0e351217",
+      "key": "c980b395f0be528c4233417ef6305274",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    },
+
+    {
+      "id": "DS",
+      "name": "D Sports English",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "9d2bfb4c9aa45ac488bd92ec0e351217",
+      "key": "c980b395f0be528c4233417ef6305274",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    },
+
+    {
+      "id": "TNS",
+      "name": "TND English",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "9d2bfb4c9aa45ac488bd92ec0e351217",
+      "key": "c980b395f0be528c4233417ef6305274",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    },
+
+    {
+      "id": "Caze",
+      "name": "Caze Tv",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "9d2bfb4c9aa45ac488bd92ec0e351217",
+      "key": "c980b395f0be528c4233417ef6305274",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    },
+
+    {
+      "id": "WC",
+      "name": "WC Tv",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "8f7f3239c37f521ba1804aebdcd7404a",
+      "key": "516e21012c50b8e6c51b297b07bb0675",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    },
+    
+        {
+      "id": "FOX",
+      "name": "Fox English",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AWSN_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1783382477~exp=1783404077~acl=/*~hmac=af98ca889d6acb44ec3e3546e44fedf4559c343a17302c9f7b4363718d8196a5",
+      "cookie_expires": "7/7/2026 11:31:17 AM IST",
+      "key_id": "8f7f3239c37f521ba1804aebdcd7404a",
+      "key": "516e21012c50b8e6c51b297b07bb0675",
+      "author": "@vishu",
+      "credit": "@cricketlive"
+    }
+  ]
+}
+
+
