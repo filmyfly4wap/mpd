@@ -3,13 +3,13 @@
 
   "channels": [
     {
-      "id": "MAX",
+      "id": "Soney",
       "name": "Sony Max HD",
-      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1783423549~exp=1783445149~acl=/*~hmac=c103b96e05da29be9786ee55f092f64f08136ca321257b324339a760bb14703e",
-      "cookie_expires": "7/7/2026 11:31:17 AM IST",
-      "key_id": "9d2bfb4c9aa45ac488bd92ec0e351217",
-      "key": "c980b395f0be528c4233417ef6305274",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1789388291~exp=1789409891~acl=/*~hmac=9b1b8a0d03434fc51a7d5f566edadff0a78292345ffa2442340fabbf0a58d9c8",
+      "cookie_expire":null,
+      "key_id": "3394be91407c5fe99d784d2f2d6d4a12",
+      "key": "58665e1df41f9f22ed73c56384bb3f51",
       "author": "@vishu",
       "credit": "@cricketlive"
     }
